@@ -1166,7 +1166,7 @@ importers:
       execa: ^6.1.0
       ora: ^6.1.2
       rimraf: 3.0.2
-      vite: 3.1.2
+      vite: 3.1.3
       vue: ^3.2.39
       vue-router: ^4.1.5
     dependencies:
@@ -1185,7 +1185,7 @@ importers:
       '@vuepress/bundler-webpack': 2.0.0-beta.51
       '@vuepress/core': 2.0.0-beta.51
       rimraf: 3.0.2
-      vite: 3.1.2
+      vite: 3.1.3
 
   packages/sitemap2:
     specifiers:
@@ -11898,8 +11898,8 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /vite/3.1.2:
-    resolution: {integrity: sha512-wTDKPkiVbeT+drTPdkuvjVIC/2vKKUc1w3qNOuwgpyvPCZF6fvdxB5v5WEcCsqaYea0zrwA4+XialJKCHM3oVQ==}
+  /vite/3.1.3:
+    resolution: {integrity: sha512-/3XWiktaopByM5bd8dqvHxRt5EEgRikevnnrpND0gRfNkrMrPaGGexhtLCzv15RcCMtV2CLw+BPas8YFeSG0KA==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
@@ -11957,7 +11957,7 @@ packages:
       tinybench: 2.1.5
       tinypool: 0.3.0
       tinyspy: 1.0.2
-      vite: 3.1.2
+      vite: 3.1.3
     transitivePeerDependencies:
       - less
       - sass
